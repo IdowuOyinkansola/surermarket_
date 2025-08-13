@@ -3,7 +3,7 @@ Welcome to the **Supermarket Sales Analysis** project! This project explores tra
 ## 📊 Project Overview
 This analysis aims to uncover insights about customer behavior, product category performance, branch comparisons, and payment trends. By analyzing the data, we hope to guide strategic business decisions and improve operational efficiency.
 --
-![Supermarket Categories](images/imag.jpg)
+![Supermarket Categories](https://www.pinterest.com/pin/11962755256598685/)
 ### 🏬 Categories Sold
 The supermarket sells a wide variety of products across the following main categories:
 - **Health and Beauty**
